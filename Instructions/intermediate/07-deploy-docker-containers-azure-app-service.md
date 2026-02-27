@@ -1,8 +1,12 @@
 ---
 lab:
   topic: Intermediate
-  title: "Deploy Docker containers to Azure App Service web apps"
-  description: "Learn how to use an Azure DevOps CI/CD pipeline to build a custom Docker image, push it to Azure Container Registry, and deploy it as a container to Azure App Service."
+  title: Deploy Docker containers to Azure App Service web apps
+  description: Learn how to use an Azure DevOps CI/CD pipeline to build a custom Docker
+    image, push it to Azure Container Registry, and deploy it as a container to Azure
+    App Service.
+  duration: 20 minutes
+  level: 400
 ---
 
 # Deploy Docker containers to Azure App Service web apps
