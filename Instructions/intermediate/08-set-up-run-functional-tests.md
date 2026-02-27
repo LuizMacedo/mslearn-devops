@@ -1,8 +1,11 @@
 ---
 lab:
   topic: Intermediate
-  title: "Set up and run functional tests"
-  description: "Learn how to configure a CI pipeline for a .NET application that includes unit tests, integration tests, and functional tests."
+  title: Set up and run functional tests
+  description: Learn how to configure a CI pipeline for a .NET application that includes
+    unit tests, integration tests, and functional tests.
+  duration: 20 minutes
+  level: 400
 ---
 
 # Set up and run functional tests
