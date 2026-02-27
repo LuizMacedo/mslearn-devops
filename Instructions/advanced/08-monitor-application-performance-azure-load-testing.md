@@ -1,8 +1,11 @@
 ---
 lab:
   topic: Advanced
-  title: "Monitor Application Performance with Azure Load Testing"
-  description: "Learn how to use Azure Load Testing to simulate performance testing against live-running web applications with different load scenarios."
+  title: Monitor Application Performance with Azure Load Testing
+  description: Learn how to use Azure Load Testing to simulate performance testing
+    against live-running web applications with different load scenarios.
+  duration: 35 minutes
+  level: 500
 ---
 
 # Monitor Application Performance with Azure Load Testing
