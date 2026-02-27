@@ -1,8 +1,11 @@
 ---
 lab:
   topic: Advanced
-  title: "Control Deployments using Release Gates"
-  description: "Learn how to configure deployment gates and use them to control the execution of Azure Pipelines with environment-specific deployment criteria."
+  title: Control Deployments using Release Gates
+  description: Learn how to configure deployment gates and use them to control the
+    execution of Azure Pipelines with environment-specific deployment criteria.
+  duration: 75 minutes
+  level: 400
 ---
 
 # Control Deployments using Release Gates
