@@ -1,8 +1,11 @@
 ---
 lab:
   topic: Intermediate
-  title: "Enable Continuous Integration with Azure Pipelines"
-  description: "Learn how to define build pipelines in Azure DevOps using YAML for Pull Request validation and Continuous Integration implementation."
+  title: Enable Continuous Integration with Azure Pipelines
+  description: Learn how to define build pipelines in Azure DevOps using YAML for
+    Pull Request validation and Continuous Integration implementation.
+  duration: 30 minutes
+  level: 400
 ---
 
 # Enable Continuous Integration with Azure Pipelines
