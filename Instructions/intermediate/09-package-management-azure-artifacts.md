@@ -1,8 +1,11 @@
 ---
 lab:
   topic: Intermediate
-  title: "Package Management with Azure Artifacts"
-  description: "Learn how to work with Azure Artifacts for package management, including creating and connecting to feeds, and publishing NuGet packages."
+  title: Package Management with Azure Artifacts
+  description: Learn how to work with Azure Artifacts for package management, including
+    creating and connecting to feeds, and publishing NuGet packages.
+  duration: 35 minutes
+  level: 300
 ---
 
 # Package Management with Azure Artifacts
