@@ -1,8 +1,12 @@
 ---
 lab:
   topic: Basic
-  title: "Version Control with Git in Azure Repos"
-  description: "Learn to establish a local Git repository, which can easily be synchronized with a centralized Git repository in Azure DevOps. You'll also learn about Git branching and merging support using Visual Studio Code."
+  title: Version Control with Git in Azure Repos
+  description: Learn to establish a local Git repository, which can easily be synchronized
+    with a centralized Git repository in Azure DevOps. You'll also learn about Git
+    branching and merging support using Visual Studio Code.
+  duration: 45 minutes
+  level: 400
 ---
 
 # Version Control with Git in Azure Repos
