@@ -1,8 +1,11 @@
 ---
 lab:
   topic: Basic
-  title: "Share Team Knowledge using Azure Project Wiki"
-  description: "Learn how to create and configure wikis in Azure DevOps, including managing markdown content and creating Mermaid diagrams."
+  title: Share Team Knowledge using Azure Project Wiki
+  description: Learn how to create and configure wikis in Azure DevOps, including
+    managing markdown content and creating Mermaid diagrams.
+  duration: 45 minutes
+  level: 400
 ---
 
 # Share Team Knowledge using Azure Project Wiki
